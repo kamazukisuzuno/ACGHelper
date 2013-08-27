@@ -1,0 +1,8 @@
+# incremental data. DO NOT EDIT.
+# format is <lastModified> <length> <SHA-1> <path>
+# Encoding is UTF-8
+1377584070000 9193 450d3d44325fdf259810a60e6afa36103e186b3d /home/suzuno/Program/android-studio/sdk/sources/ACGHelperProject/ACGHelper/build/res/all/debug/drawable-hdpi/ic_launcher.png
+1377584070000 337 41cb67c9f86bca66ed30a5c34b4600b1b73ca992 /home/suzuno/Program/android-studio/sdk/sources/ACGHelperProject/ACGHelper/build/res/all/debug/values-v11/values.xml
+1377584070000 826 7c391ff9892f1affb0505a62e9d4b27e9ed6eb86 /home/suzuno/Program/android-studio/sdk/sources/ACGHelperProject/ACGHelper/build/res/all/debug/values/values.xml
+1377584070000 14068 502cd84fa444f26d7ecfdf4a355064867977f236 /home/suzuno/Program/android-studio/sdk/sources/ACGHelperProject/ACGHelper/build/res/all/debug/drawable-xhdpi/ic_launcher.png
+1377584070000 5057 23730fd0d5e720d1f719be1afc8c48fa7305da6c /home/suzuno/Program/android-studio/sdk/sources/ACGHelperProject/ACGHelper/build/res/all/debug/drawable-mdpi/ic_launcher.png
